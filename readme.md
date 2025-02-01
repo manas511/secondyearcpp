@@ -2,6 +2,49 @@
 
 ### providing outputs
 
+#### Q25
+
+    Enter a string: C++ Programming
+    You entered: C++ Programming
+    Concatenated string: HelloWorld
+    s1 and s2 are not equal.
+
+#### Q.26
+    Matrix 1:
+    Enter 9 values for the matrix (3x3):
+    1 2 3
+    4 5 6
+    7 8 9
+    Matrix 2:
+    Enter 9 values for the matrix (3x3):
+    9 8 7
+    6 5 4
+    3 2 1
+    Matrix 1:
+    1 2 3
+    4 5 6
+    7 8 9
+    Matrix 2:
+    9 8 7
+    6 5 4
+    3 2 1
+    Matrix 1 + Matrix 2:
+    10 10 10
+    10 10 10
+    10 10 10
+    Matrix 1 - Matrix 2:
+    -8 -6 -4
+    -2 0 2
+    4 6 8
+    Matrix 1 * Matrix 2:
+    30 24 18
+    84 69 54
+    138 114 90
+
+
+
+
+
 #### Q.27
     Enter first polar coordinate:
     Enter radius: 3
